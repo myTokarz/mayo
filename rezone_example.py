@@ -20,7 +20,7 @@ import time
  
  
 USER = 'admin'
-PASSWORD = 'c!sco123'
+PASSWORD = 'password'
 devies = ['10.91.33.160',
            ]
  
