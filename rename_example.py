@@ -16,7 +16,7 @@ import argparse
 
 # define switch information 
 USER = 'admin'
-PASSWORD = 'A!min567'
+PASSWORD = 'password'
 devices = ['10.91.86.207',
            '10.91.86.207'
            ]
